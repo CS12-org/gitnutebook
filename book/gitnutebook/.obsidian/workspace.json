@@ -4,40 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "face80395d15437a",
+        "id": "6faad29b635e1920",
         "type": "tabs",
         "children": [
           {
-            "id": "d96f9b0989be1756",
+            "id": "b30734edf98316a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "Chapter1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "Chapter1"
             }
-          }
-        ]
-      },
-      {
-        "id": "9b4afccd309ce4b9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "36faa131b89b9544",
+            "id": "9d5667479269943d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Chapter1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,16 +175,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d96f9b0989be1756",
+  "active": "9d5667479269943d",
   "lastOpenFiles": [
     "Chapter 1.md"
   ]
